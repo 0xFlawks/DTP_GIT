@@ -1,5 +1,5 @@
 ---
-description: The unofficial Guide
+description: The Unofficial Guide
 ---
 
 # The Garbage Jesus
@@ -21,3 +21,30 @@ Monoliff - <mark style="color:green;">Degeniverse Art</mark>
 
 
 
+
+
+### Links of the collection
+
+Website : [https://degentrashpandas.com/](https://degentrashpandas.com/)
+
+Twitter : [https://twitter.com/DegenTrashPanda](https://twitter.com/DegenTrashPanda)
+
+#### Main Collection
+
+Tensor : [https://www.tensor.trade/trade/degenerate\_trash\_pandas](https://www.tensor.trade/trade/degenerate\_trash\_pandas)
+
+MagicEden : [https://magiceden.io/marketplace/degenerate\_trash\_pandas](https://magiceden.io/marketplace/degenerate\_trash\_pandas)
+
+Hyperspace : [https://hyperspace.xyz/collection/degentrashpandas](https://hyperspace.xyz/collection/degentrashpandas)
+
+Solanart : [https://solanart.io/collections/degeneratetrashpandas?tab=items](https://solanart.io/collections/degeneratetrashpandas?tab=items)
+
+#### Immortal Collection&#x20;
+
+Tensor : [https://www.tensor.trade/trade/immortalpandas](https://www.tensor.trade/trade/immortalpandas)
+
+MagicEden : [https://magiceden.io/marketplace/dtp\_immortals](https://magiceden.io/marketplace/dtp\_immortals)
+
+Solanart : [https://solanart.io/collections/dtp-immortals](https://solanart.io/collections/dtp-immortals)
+
+Hyperspace : [https://hyperspace.xyz/collection/Dqzsft8bSXuxG9Mxr3ULrkFYap2c6qtRshFw8YrPhTDX](https://hyperspace.xyz/collection/Dqzsft8bSXuxG9Mxr3ULrkFYap2c6qtRshFw8YrPhTDX)
