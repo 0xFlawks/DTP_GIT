@@ -1,8 +1,4 @@
----
-description: The Unofficial Guide
----
-
-# The Garbage Jesus
+# 🔮 The Garbage Jesus
 
 DTP is an expansion to the **Degeniverse (Degen Ape Academy & Degen Drop Bears)**.
 
