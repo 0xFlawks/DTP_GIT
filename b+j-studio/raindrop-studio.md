@@ -23,3 +23,11 @@ Medium article introducing the token at
 **What's the $RAIN tokenomics ?**
 
 The $RAIN token has a hard fixed supply, 10bn token and 5 decimals.
+
+
+
+#### Where can i claim $RAIN using my Trash Panda token ?
+
+{% embed url="https://pitsark.degentrashpandas.com/" %}
+Possible to claim $RAIN token using your NFT asset only once (for each nft)
+{% endembed %}
