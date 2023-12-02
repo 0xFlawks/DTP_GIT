@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Onboarding](README.md)
-* [The Garbage Jesus](the-garbage-jesus.md)
+* [🔮 The Garbage Jesus](the-garbage-jesus.md)
 
 ## 🦝 Trash House
 
