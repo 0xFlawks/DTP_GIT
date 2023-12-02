@@ -6,7 +6,7 @@
 
 ## 🦝 Trash House
 
-* [🔮 The Garbage Jesus](trash-house/the-garbage-jesus.md)
+* [🔮 The Garbage Jesus](the-garbage-jesus.md)
 * [🚨 Immortal Collection](trash-house/immortal-collection.md)
 * [🗑️ Dumpsters](trash-house/dumpsters.md)
 * [👣 Boots](trash-house/boots.md)
