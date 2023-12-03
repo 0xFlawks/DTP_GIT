@@ -1,0 +1,37 @@
+---
+description: Joined the Friday, October 20, 2023 2:00 AM
+---
+
+# 🐵 DAA on B00TS
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://itsboots.xyz/">https://itsboots.xyz/</a></p></figcaption></figure>
+
+{% embed url="https://twitter.com/DegenApeAcademy/status/1715084839865516204" %}
+
+#### DAA was the first project to join and use b00ts v2.
+
+This OG project on Solana has created a second collection called Higher Self, which lets you burn your DAA V1 (main collection which was immutable) and get a DAA V2 (which is mutable with royalty ON) with a touch of glow to recognize a V1 and V2.
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>e.g  V1</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>e.g V2</p></figcaption></figure>
+
+</div>
+
+DAA has therefore worked on over a hundred traits so that you can modify your Ape as you wish. 690 trait packs have been distributed to the 600+ V1 burners.
+
+If you want to change a trait, you need to have an other trait of the same type (body, mouth, eyes..)\
+When you'll change a trait, the old one will go directly into your wallet as a SFT.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/daa_boots_traits.png" alt="" width="563"><figcaption></figcaption></figure>
+
+In the end, the traits will come out over the years to create perpetual demand.\
+You have a DAA and you want to try boots -> [https://itsboots.xyz/](https://itsboots.xyz/)

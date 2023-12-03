@@ -6,7 +6,7 @@ What the fuck is a Degencierge?”&#x20;
 
 This thread will give you a brief understanding of who we are and how we plan to be of service.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 We are degens, just like you. Our aim is to provide a point of reference for all things Degeniverse. We provide a personal guide for potential, new, and existing holders. Even if you don’t intend to hold an asset and you’re just curious about what happens in the Dingus Forest…
 
@@ -22,7 +22,7 @@ At your service,
 
 Degencierge
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **How can i get Degencierge uniform / traits ?**
 
@@ -32,7 +32,7 @@ Degencierge
 
 “How tf do I get the Degencierge traits?!” A quick rundown on how you too can look like a degenerate bellhop.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 6 months ago, this account was created to help new & casual holders of the degeniverse. I went to [@sol\_fiend\_](https://twitter.com/sol\_fiend\_?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1596330669172740097%7Ctwgr%5E%7Ctwcon%5Es1\_\&ref\_url=notion%3A%2F%2Fwww.notion.so%2Fflawks%2FCupcake-3cb3609f863443859711f83d439a97a9) and pitched him on the idea of doing the art for an initiative that creates 0 revenue. Surprisingly, he agreed and the first Degencierge custom was made.
 
