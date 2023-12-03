@@ -6,7 +6,7 @@
 
 ### Boots is a system that allows you to customize your nfts by intervening on the traits. Add, Remove, Swap it is possible
 
-Removing, adding a trait will cost you x SOL for each use. Moving a trait to your wallet will cost you x SOL If you have **any questions a support channel has been set up :** **🥾┃b00ts-support**.
+Removing, adding a trait will cost you x SOL for each use. Moving a trait to your wallet will cost you x SOL&#x20;
 
 
 
