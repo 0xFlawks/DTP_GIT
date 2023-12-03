@@ -1,4 +1,8 @@
-# 👣 Boots
+# 🎇 Boots
+
+###
+
+<figure><img src="../.gitbook/assets/Boots_Logo_White.svg" alt=""><figcaption></figcaption></figure>
 
 ### Boots is a system that allows you to customize your nfts by intervening on the traits. Add, Remove, Swap it is possible
 
