@@ -29,6 +29,12 @@ DAA has therefore worked on over a hundred traits so that you can modify your Ap
 If you want to change a trait, you need to have an other trait of the same type (body, mouth, eyes..)\
 When you'll change a trait, the old one will go directly into your wallet as a SFT.
 
+
+
+V1 Collection : [https://www.tensor.trade/trade/degenerate\_ape\_academy](https://www.tensor.trade/trade/degenerate\_ape\_academy)
+
+V2 Collection : [https://www.tensor.trade/trade/daahs](https://www.tensor.trade/trade/daahs)
+
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/daa_boots_traits.png" alt="" width="563"><figcaption></figcaption></figure>
