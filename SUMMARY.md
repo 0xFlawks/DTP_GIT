@@ -9,7 +9,7 @@
 * [🔮 The Garbage Jesus](the-garbage-jesus.md)
 * [🚨 Immortal Collection](trash-house/immortal-collection.md)
 * [🗑️ Dumpsters](trash-house/dumpsters.md)
-* [👣 Boots](trash-house/boots/README.md)
+* [👣 Boots](trash-house/boots.md)
   * [🐵 DAA on B00TS](trash-house/boots/daa-on-b00ts.md)
 * [🎮 Online Game](trash-house/online-game.md)
 

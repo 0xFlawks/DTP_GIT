@@ -1,5 +1,5 @@
 ---
-description: Joined the Friday, October 20, 2023 2:00 AM
+description: Joined on Friday, October 20, 2023 2:00 AM
 ---
 
 # 🐵 DAA on B00TS
