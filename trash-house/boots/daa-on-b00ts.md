@@ -4,9 +4,13 @@ description: Joined on Friday, October 20, 2023 2:00 AM
 
 # 🐵 DAA on B00TS
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://itsboots.xyz/">https://itsboots.xyz/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://itsboots.xyz/">https://itsboots.xyz/</a></p></figcaption></figure>
 
 {% embed url="https://twitter.com/DegenApeAcademy/status/1715084839865516204" %}
+
+####
+
+<figure><img src="../../.gitbook/assets/DAA_customizer.JPG" alt=""><figcaption><p>DAA x BOOTS Customizer</p></figcaption></figure>
 
 #### DAA was the first project to join and use b00ts v2.
 
@@ -16,7 +20,7 @@ This OG project on Solana has created a second collection called Higher Self, wh
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>e.g  V1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>e.g  V1</p></figcaption></figure>
 
  
 
@@ -41,3 +45,7 @@ V2 Collection : [https://www.tensor.trade/trade/daahs](https://www.tensor.trade/
 
 In the end, the traits will come out over the years to create perpetual demand.\
 You have a DAA and you want to try boots -> [https://itsboots.xyz/](https://itsboots.xyz/)
+
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://eh5r0tuwzcg.typeform.com/to/C4pU141d">https://eh5r0tuwzcg.typeform.com/to/C4pU141d</a></p></figcaption></figure>
