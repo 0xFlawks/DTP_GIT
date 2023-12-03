@@ -8,9 +8,13 @@
 
 Removing, adding a trait will cost you x SOL for each use. Moving a trait to your wallet will cost you x SOL If you have **any questions a support channel has been set up :** **🥾┃b00ts-support**.
 
-b00ts marketplace is officially live : [https://boots.raindrops.xyz/marketplace](https://boots.raindrops.xyz/marketplace)
 
-Website : [https://boots.raindrops.xyz/](https://boots.raindrops.xyz/)
+
+B00ts marketplace : [https://boots.raindrops.xyz/marketplace](https://boots.raindrops.xyz/marketplace)
+
+Website V1 (for Trash Pandas) : [https://boots.raindrops.xyz/](https://boots.raindrops.xyz/)
+
+Website V2 (Other collections) : [https://itsboots.xyz/](https://itsboots.xyz/)
 
 
 
