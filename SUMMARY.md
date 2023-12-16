@@ -12,6 +12,7 @@
 * [🎇 Boots](trash-house/boots.md)
   * [🐵 DAA on B00TS](trash-house/boots/daa-on-b00ts.md)
 * [🎮 Online Game](trash-house/online-game.md)
+* [🎅 Etangler](trash-house/etangler.md)
 
 ## ♥ B+J STUDIO
 

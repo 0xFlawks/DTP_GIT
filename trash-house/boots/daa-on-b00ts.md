@@ -4,7 +4,7 @@ description: Joined on Friday, October 20, 2023 2:00 AM
 
 # 🐵 DAA on B00TS
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://itsboots.xyz/">https://itsboots.xyz/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://itsboots.xyz/">https://itsboots.xyz/</a></p></figcaption></figure>
 
 {% embed url="https://twitter.com/DegenApeAcademy/status/1715084839865516204" %}
 
@@ -20,11 +20,11 @@ This OG project on Solana has created a second collection called Higher Self, wh
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>e.g  V1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>e.g  V1</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>e.g V2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p>e.g V2</p></figcaption></figure>
 
 </div>
 
@@ -39,7 +39,7 @@ V1 Collection : [https://www.tensor.trade/trade/degenerate\_ape\_academy](https:
 
 V2 Collection : [https://www.tensor.trade/trade/daahs](https://www.tensor.trade/trade/daahs)
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/daa_boots_traits.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -48,4 +48,4 @@ You have a DAA and you want to try boots -> [https://itsboots.xyz/](https://itsb
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://eh5r0tuwzcg.typeform.com/to/C4pU141d">https://eh5r0tuwzcg.typeform.com/to/C4pU141d</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p><a href="https://eh5r0tuwzcg.typeform.com/to/C4pU141d">https://eh5r0tuwzcg.typeform.com/to/C4pU141d</a></p></figcaption></figure>
