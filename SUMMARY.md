@@ -9,10 +9,10 @@
 * [🔮 The Garbage Jesus](the-garbage-jesus.md)
 * [🚨 Immortal Collection](trash-house/immortal-collection.md)
 * [🗑️ Dumpsters](trash-house/dumpsters.md)
+* [🎅 Etangler](trash-house/etangler.md)
 * [🎇 Boots](trash-house/boots.md)
   * [🐵 DAA on B00TS](trash-house/boots/daa-on-b00ts.md)
 * [🎮 Online Game](trash-house/online-game.md)
-* [🎅 Etangler](trash-house/etangler.md)
 
 ## ♥ B+J STUDIO
 
