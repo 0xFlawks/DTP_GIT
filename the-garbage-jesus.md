@@ -35,6 +35,10 @@ Hyperspace : [https://hyperspace.xyz/collection/degentrashpandas](https://hypers
 
 Solanart : [https://solanart.io/collections/degeneratetrashpandas?tab=items](https://solanart.io/collections/degeneratetrashpandas?tab=items)
 
+
+
+General Link for DTP : [https://magiceden.io/creators/degenerate\_trash\_pandas](https://magiceden.io/creators/degenerate\_trash\_pandas)
+
 #### Immortal Collection&#x20;
 
 Tensor : [https://www.tensor.trade/trade/immortalpandas](https://www.tensor.trade/trade/immortalpandas)
