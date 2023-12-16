@@ -12,3 +12,4 @@ Link to the collection : [https://magiceden.io/marketplace/sporting\_madness\_20
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption><p><a href="https://twitter.com/sportinglabs/status/1635379101241597959/photo/1">https://twitter.com/sportinglabs/status/1635379101241597959/photo/1</a></p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
