@@ -37,7 +37,7 @@ Solanart : [https://solanart.io/collections/degeneratetrashpandas?tab=items](htt
 
 
 
-General Link for DTP : [https://magiceden.io/creators/degenerate\_trash\_pandas](https://magiceden.io/creators/degenerate\_trash\_pandas)
+General ME Link for DTP : [https://magiceden.io/creators/degenerate\_trash\_pandas](https://magiceden.io/creators/degenerate\_trash\_pandas)
 
 #### Immortal Collection&#x20;
 
