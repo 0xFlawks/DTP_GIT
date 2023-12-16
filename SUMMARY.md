@@ -12,6 +12,8 @@
 * [🎅 Etangler](trash-house/etangler.md)
 * [🎇 Boots](trash-house/boots.md)
   * [🐵 DAA on B00TS](trash-house/boots/daa-on-b00ts.md)
+  * [DROP 1 : Mono's Dark Xmas 2022](trash-house/boots/drop-1-monos-dark-xmas-2022.md)
+  * [DROP 2 : Sporting Madness 2023](trash-house/boots/drop-2-sporting-madness-2023.md)
 * [🎮 Online Game](trash-house/online-game.md)
 
 ## ♥ B+J STUDIO
